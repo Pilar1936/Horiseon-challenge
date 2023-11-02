@@ -1,7 +1,7 @@
 # Horiseon-challenge
  # Change
-.cambien el titulo
-.utilice semantica html como nav, main, article,section y aside.
+.change the title
+.use html semantics like nav, main, article, section and aside.
 .removed unnecesary class attribute.
 #webpage and link 
 https://pilar1936.github.io/Horiseon-challenge/
